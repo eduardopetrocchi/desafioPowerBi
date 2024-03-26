@@ -1,7 +1,7 @@
 
-# Título do Projeto
+# Projeto de gráficos com informações do banco de dados de exemplos do Power BI.
 
-## Readme do Power BI - Vendas
+Power BI - Vendas
 
 **Descrição:**
 
